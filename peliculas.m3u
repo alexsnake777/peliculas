@@ -5,7 +5,7 @@ http://192.168.28.2:8096/videos/29609/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:4579,¡Feliz Halloween, Scooby-Doo!
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21210/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=46b9e2f7ba2461c56eae13ee935cecb9&Static=true&PlaySessionId=af2f137400846e4137d057ff4fb75f86
-#EXTINF:5623,¡Scooby!
+#EXTINF:5623,Scoob.2020.1080p-dual-lat-cinecalidad.is
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21411/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=31fbfcb57e8b4fbda33eeb995277922f&Static=true&PlaySessionId=0cdf20e3fe11840ce2e5e67d521a99a0
 #EXTINF:4597,¡Scooby-Doo! La Espada y Scooby
@@ -14,6 +14,9 @@ http://192.168.28.2:8096/videos/31543/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:7903,¡Shazam!
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21420/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=be000eefd01dbb908cbf1f127663c816&Static=true&PlaySessionId=f3028bfd63643cdc0b42041a95ab62e0
+#EXTINF:5186,¡Upsss! 2 ¿Y ahora dónde está Noé?
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37454/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=7a7baf10e18d0afd4edba6022576b543&Static=true&PlaySessionId=12009ce70ff639a7f255003697b1854a
 #EXTINF:5443,¿Conoces a Tomás?
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21099/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=4e3a6f364d23619e933095021792f299&Static=true&PlaySessionId=880e85c6335b96cfe7c02e234449a05e
@@ -41,6 +44,9 @@ http://192.168.28.2:8096/videos/20992/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5581,8 días del Apolo 11
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21031/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=93651a23b6201d955e7e60b1822f9209&Static=true&PlaySessionId=3cc5b8b050116bc627589f5cdff024e0
+#EXTINF:6985,La 8.ª noche
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37444/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=16538515234de55abfa2d1159dd2bb82&Static=true&PlaySessionId=64c316b5fc3baff8f18fe03718fa21b1
 #EXTINF:5448,13 fantasmas
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/20986/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=cd2485419c1345af9a7e9333c6876946&Static=true&PlaySessionId=6b78248d981c1978286e6ea023bf7ece
@@ -95,6 +101,9 @@ http://192.168.28.2:8096/videos/21351/stream.mkv?DeviceId=07438af092bb985ec64eec
 #EXTINF:6222,Ajuste de cuentas
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21002/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=5a7eb131b451d970be2c0bcfd4693c61&Static=true&PlaySessionId=9875b32de612b092f44a554eec031542
+#EXTINF:5607,Al Lado de Cristo
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36811/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=f65dfda05bcfe9692dc53b81b9697182&Static=true&PlaySessionId=a6bfbdd1540919a0955edfdb8159dff9
 #EXTINF:5280,Al morir la matinée
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/35382/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=7c4eba15005784278af07c69ec51e004&Static=true&PlaySessionId=b36c56baa7d42d4ef90938ead7cfe77f
@@ -437,6 +446,9 @@ http://192.168.28.2:8096/videos/21079/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5318,Carlitos y Snoopy: La película de Peanuts
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/34683/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ca17cca06670d8b5a7d49f9143a5c8d2&Static=true&PlaySessionId=59be3f38683559f5a4eb05a581b0ef2d
+#EXTINF:5702,Carnaval
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36812/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=9090f9611df0b9ac231f1d52b12e6b59&Static=true&PlaySessionId=51c5c62464cbb9e6b5660ccbdc135b9d
 #EXTINF:5147,El carnicero
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21235/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ab6a983e1bb7150ac6f1ed3d60659406&Static=true&PlaySessionId=fc79c077438ec93d87d760233c984fc8
@@ -452,6 +464,9 @@ http://192.168.28.2:8096/videos/21081/stream.mkv?DeviceId=07438af092bb985ec64eec
 #EXTINF:5606,Casa ajena
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21217/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=343b9d5576109c118117e0c7a6141110&Static=true&PlaySessionId=987c8981bc4c9d044a0f6e8a8312f112
+#EXTINF:5264,La Casa de Las Flores: La Película
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37438/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b79e953474e54e6fdf197db8ee87133d&Static=true&PlaySessionId=7472012da817820a07f05152765c69a0
 #EXTINF:3444,La casa de papel: El fenómeno
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/32791/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ce8dd0ffbb1c0cc0df76af4d6177debc&Static=true&PlaySessionId=99e0982a60bd1fa0697f3e9f8affe0b0
@@ -569,6 +584,9 @@ http://192.168.28.2:8096/videos/21313/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:6635,La corresponsal
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21001/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=0abd020560a6b5e1bd2ef2135807a666&Static=true&PlaySessionId=0d53c6cf0c1d43836a32070cbe703bdd
+#EXTINF:7081,Cosmoball
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36813/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=5a9a3e2533ad30032e19c060e3ba8d59&Static=true&PlaySessionId=8d36a3dcf1c3eaa76201b51e76342110
 #EXTINF:6708,Cowboy de asfalto
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/32624/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=67ed54190cb284610f7495811e4144d6&Static=true&PlaySessionId=2aea0faaf6a64f0edf6e16e7456f1f5b
@@ -596,6 +614,9 @@ http://192.168.28.2:8096/videos/21106/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:6919,Crónicas de Navidad 2
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/29719/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ca231ad52257d4513a79c99a5f1d569a&Static=true&PlaySessionId=9f27bed44555763bdf56497331163554
+#EXTINF:8035,Cruella
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36814/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=6ed37b2b2cdc062544e2289fa0b59dd7&Static=true&PlaySessionId=59be320999025525b9a71167199fee03
 #EXTINF:6348,Crypto
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21107/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=542d74a7160482abe9228934458e18a9&Static=true&PlaySessionId=43ba76caf959f6657253bd82f0aacd3a
@@ -620,9 +641,15 @@ http://192.168.28.2:8096/videos/31364/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:6169,La Dama y el Vagabundo
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21280/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=782dd09d14389c844dc9c6487ceef9b8&Static=true&PlaySessionId=f759c7f2c4e963e9de91dfc03ffa90ec
+#EXTINF:6684,Dancing Queens
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36815/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d59909410a68791ddaf5d9c7f045e49b&Static=true&PlaySessionId=3b9afdf638a20e37da364690accace6d
 #EXTINF:5381,A Dark Place
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/20996/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=acd8b6bfd4806938e66d4878e456d583&Static=true&PlaySessionId=0f8f70e9d9dfaeb08237901125b4f1c2
+#EXTINF:4362,David Copeland: El hombre que aterrorizó Londres
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36816/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b50430bf2507a6c2c2ee38ba40fc7b86&Static=true&PlaySessionId=318b22f8ea39d47287de486948933581
 #EXTINF:6582,De amor y monstruos
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/33426/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=7ed5ae2f20b1e51f13895dd79022333f&Static=true&PlaySessionId=c0bfbc5d579790fbd2162803e5f33214
@@ -668,6 +695,9 @@ http://192.168.28.2:8096/videos/31529/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5872,DESPICABLE_ME_2_Aud. Latino
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21122/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=f4545cc99347a000c5702fc0c31aae5f&Static=true&PlaySessionId=32fb14f3a8895340e60111555f5aa529
+#EXTINF:7136,Despierta la furia
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36832/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=79b785bbd8caa4809806c05f36a62473&Static=true&PlaySessionId=d599503138a869898b1b37b146f974e5
 #EXTINF:7257,Destroyer. Una mujer herida
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21124/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=faa9debda66442e38e8f71cafddbb456&Static=true&PlaySessionId=383c2ad4d720b05c21fdca85c98d05e8
@@ -677,6 +707,9 @@ http://192.168.28.2:8096/videos/32028/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5379,El día del Sí
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/32398/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b99681d1b39021fe54b655e174c25bee&Static=true&PlaySessionId=83301471cfa95a3a9851ae8af968ec46
+#EXTINF:5379,El Día del Sí
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37434/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d816e6c9aed4719bdf43427da9d7a120&Static=true&PlaySessionId=62e692bab1867102863691e4392e4f45
 #EXTINF:5256,El día llegará
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/30189/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=27d4a6f794a22733134d742c1981abaf&Static=true&PlaySessionId=afaf510147096617ec4ea01b87181332
@@ -758,6 +791,9 @@ http://192.168.28.2:8096/videos/21148/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5153,Ejecutivos agresivos
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21101/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=944cc731acd348ef138be84a4bcb593b&Static=true&PlaySessionId=40ab3ed702ac8fa17505c8498e68bce4
+#EXTINF:8902,Ejército de los muertos
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36817/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=6705f7f71ec7872c3de73b2059ef412a&Static=true&PlaySessionId=de9985d62e40e7b5a759e4b3b22047ef
 #EXTINF:6527,Election: La noche de las bestias
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21468/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b3ebf65df3d9c284bae186c53e6c6528&Static=true&PlaySessionId=11ad718cb850ec42353fd521b527582d
@@ -817,6 +853,9 @@ http://192.168.28.2:8096/videos/21510/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:7370,Escuadrón suicida
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21446/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=546cfe837eed1c65c5aeb5aa015f30e1&Static=true&PlaySessionId=dadbf255c98c74c1af78692592e9791e
+#EXTINF:6068,Especies en Peligro de Extincion
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36818/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=594d8869add4af61bb052da90ce3f14a&Static=true&PlaySessionId=c7aa27eaf2346e3e1f6a9dd5714f7b7e
 #EXTINF:6111,Espías con disfraz
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21434/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b857fc06707a711a00773f78ba598139&Static=true&PlaySessionId=ec6c1f9a607478ae2b3f5a2093ac8d11
@@ -847,6 +886,12 @@ http://192.168.28.2:8096/videos/30932/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:8032,Expediente Warren: el caso Enfield
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21459/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=0946e5ea5f28857393716fd561a2d37a&Static=true&PlaySessionId=4372330e2f843738d4303a2ae2977cfc
+#EXTINF:6711,Expediente Warren: Obligado por el demonio
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36829/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=7c6bae50c0e6fef1d9498043d2a686c0&Static=true&PlaySessionId=9481656b50536323af023b3a622bade6
+#EXTINF:7050,El experimento fantasma
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36819/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=bc685bda8aaf73722e8a12706a2ce544&Static=true&PlaySessionId=9f44e9222cb8c202a319b654e6e69726
 #EXTINF:7028,Explota, explota
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/32721/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=4cab2c6f0421d931a977646053f573e4&Static=true&PlaySessionId=c0d3937ff3d83635c875ae816c5b08e4
@@ -907,6 +952,9 @@ http://192.168.28.2:8096/videos/21164/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5682,Fiebre del ladrillo
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21401/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=a24c770bfc5a960ab738e2c08f55be13&Static=true&PlaySessionId=5fc652bcd06077aa5e1376bd3f604db8
+#EXTINF:781,First look F9 The fast saga
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37440/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=807f8db605075527b64c1a5ff8bbc160&Static=true&PlaySessionId=1e71d2ea8ce98ed3e34320a26ad8dbdf
 #EXTINF:5701,Flora y Ulises
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/31361/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=2c5ba3d379d04154ad2d0cde218d45c5&Static=true&PlaySessionId=5c780ff1b71c20fbaabd66448fc4d679
@@ -928,6 +976,9 @@ http://192.168.28.2:8096/videos/21185/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5606,La fría luz del día
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21458/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=965af2ce40d41f7c2d5d000d11640307&Static=true&PlaySessionId=5df6ca4ce1b0692fc31896e9c0996c8f
+#EXTINF:6230,Friends: The Reunion
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37441/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=cc4ef9528721872066a338e6e14ed758&Static=true&PlaySessionId=06106f1a20d4621121c349bcd96a2bcf
 #EXTINF:6194,Frozen 2
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21186/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b81a18a6f72c033e2913e0cfdbe7163a&Static=true&PlaySessionId=a4921f8ec251a4052bbcd5db1cde8b46
@@ -1069,6 +1120,9 @@ http://192.168.28.2:8096/videos/21242/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5741,Heridas
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21604/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=3c56d3ddf3f5fc714533b443b15d8b0a&Static=true&PlaySessionId=6de7c23a3dddc167fcbf62b3a5a19f89
+#EXTINF:5806,Hermanas en la pista
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37442/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b45f136559d1555b89260102a0e29717&Static=true&PlaySessionId=fbc559845e1eba72de7b084151cf311d
 #EXTINF:5114,Hex
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/31051/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=1cf9d114d6a46f11b72496abc9967e1b&Static=true&PlaySessionId=be22665a40c3e6e7282dad9a8d2bc71d
@@ -1090,6 +1144,9 @@ http://192.168.28.2:8096/videos/21410/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5384,Hollow Point
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21219/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=38054188d20a69b871c7899835164d5d&Static=true&PlaySessionId=7bd082379b56fa71ea24ed44181546c4
+#EXTINF:5580,El hombre agua
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37453/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=2155dbc098c4a2d93fba8e49d345565c&Static=true&PlaySessionId=984987505f85bbe9744f79d1d5570956
 #EXTINF:8582,El hombre de acero
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21306/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=8b6fa8fa651c65e9b11f3daee9e223e0&Static=true&PlaySessionId=1487662098c4b830e8260f75a490c51a
@@ -1147,6 +1204,9 @@ http://192.168.28.2:8096/videos/34676/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:4864,Ice Age: La edad de hielo
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/34672/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=6a3aecb2125c384d033bafc820aeacad&Static=true&PlaySessionId=8762cb1e2b3978c772e1f01a33f53ff9
+#EXTINF:6554,The Ice Road
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37452/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d5771ac211e92549df227dd40180ded6&Static=true&PlaySessionId=b74b4f5fdca26e00667b0954f08c388d
 #EXTINF:6889,Ilusiones mortales
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/34677/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=331dd58dbf4e84eb725ddfaa525ab37b&Static=true&PlaySessionId=212073a315e1718a303003dbe7d728b0
@@ -1192,6 +1252,9 @@ http://192.168.28.2:8096/videos/21175/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5630,La invasion
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21039/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=48e48df95986ad309efb96c2941db387&Static=true&PlaySessionId=a9dc554faca0e7ef4ba357ad5884f2cd
+#EXTINF:7958,Invasion el fin de los tiempos
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36820/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=4edbec0cefd6c059decb09c293f3e89c&Static=true&PlaySessionId=c9da8c599430065595e5c3b5c05bef8a
 #EXTINF:4295,El invasor Zim y el portal mágico
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21246/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=9aa233f42a9f7d0d874effed81c7579e&Static=true&PlaySessionId=ed42497c4294fc4a7a70828fb02924f9
@@ -1252,9 +1315,15 @@ http://192.168.28.2:8096/videos/21258/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5664,Jóvenes y brujas
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/30361/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=3b67f4a34a97a07269e564d6085ef870&Static=true&PlaySessionId=7d1e3405ca14a8b8b9931416867ba6f5
+#EXTINF:4241,Juan Luis Guerra 4.40: Entre Mar Y Palmeras
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36821/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=e0c9a57b7a2cc1eef8323a32d9899e1f&Static=true&PlaySessionId=75cb357335fab6308337e62e2c469fbb
 #EXTINF:7525,Judas y el Mesías Negro
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/32625/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=327d433cc1573a4aeab42bd8c99f0232&Static=true&PlaySessionId=d9efad83f95e8b8c12ef82b54a4f412b
+#EXTINF:4798,Juega Conmigo
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37443/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=a5df43a9ad85c27876f663569c0d30de&Static=true&PlaySessionId=f483a81728532b5a075285491f5ce186
 #EXTINF:8401,Juego de ladrones: el atraco perfecto
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21118/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ae417355f43b41b6a36f8c09a051567b&Static=true&PlaySessionId=39116a125dcc80a5e9e9e39cc4e0f449
@@ -1297,6 +1366,9 @@ http://192.168.28.2:8096/videos/21465/stream.mkv?DeviceId=07438af092bb985ec64eec
 #EXTINF:7614,Karate Kid, el momento de la verdad
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21464/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=b1d439d3790bfbf3795bf69eb8d62f04&Static=true&PlaySessionId=70c3a748955c913575ce806c8077a1e6
+#EXTINF:8344,Kenshin, el guerrero samurái: El final
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37449/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d8ffd926b86f8eefdc04a393c7975a46&Static=true&PlaySessionId=97773186abdd053b7e9aa8e68d609366
 #EXTINF:6749,Killerman
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21270/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=14c55143918ecdac6a2a2da8645d73d8&Static=true&PlaySessionId=7fb86b71fb8faab60cdba2239749c409
@@ -1399,6 +1471,9 @@ http://192.168.28.2:8096/videos/21597/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:6321,Lo que la noche esconde
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/35398/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=4fddf145a947edb858f930b4a3466625&Static=true&PlaySessionId=a99abece3951ea4dbd4cc7a497536d1a
+#EXTINF:3019,Loki.S01e01.Lat
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36823/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=c6f3204f8cc4ed71b819756935c25591&Static=true&PlaySessionId=4c9f2a0a2f88c269437c9ee88e943fe7
 #EXTINF:7073,Los ángeles de Charlie
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21086/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=baedd8c75f15e6061422e1b22a84fba1&Static=true&PlaySessionId=d091a5ffde7f59df1cfa980158480037
@@ -1681,6 +1756,9 @@ http://192.168.28.2:8096/videos/21339/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:7028,Múltiple
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21184/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=749d09c8f89bad503244a3ff7555861e&Static=true&PlaySessionId=400cd3de6d002b183e78ffc250de84c5
+#EXTINF:3379,El Mundo Miraculous: Shanghái, la leyenda de LadyDragon
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37446/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=f3fbb7407e918ed17f6ab78156540e3e&Static=true&PlaySessionId=c76cd34e1b804d4229b26a832a810c33
 #EXTINF:7155,El muñeco de nieve
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21546/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d99a2c82889021c6d4db6f8224b0a91c&Static=true&PlaySessionId=4bd1df9136f459acb7240429f27eec11
@@ -1729,6 +1807,9 @@ http://192.168.28.2:8096/videos/21345/stream.mkv?DeviceId=07438af092bb985ec64eec
 #EXTINF:7496,Ni en tus sueños
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21294/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=52f806c4b10116bdca03bddd56cced32&Static=true&PlaySessionId=0d3359fc2d440cfd7582f30e349f0ca3
+#EXTINF:6905,Ni un paso en falso
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37447/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=e5f5c2dfd0e3d690e6279ea65e7b37c3&Static=true&PlaySessionId=06c33a2041b100d83d87e0aced8e4ca9
 #EXTINF:7061,Nieva en Benidorm
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/32760/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d548feccf7a0f80ae241717a881e843d&Static=true&PlaySessionId=8488a5fc68f4b719ab3d5cd2b16d1e26
@@ -1807,6 +1888,9 @@ http://192.168.28.2:8096/videos/21529/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5788,Operación Feliz Navidad
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21359/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=a7818048ce3058eeb9922fc9d3688d36&Static=true&PlaySessionId=140ae4dc7495d1073d74f6c16e948d77
+#EXTINF:7083,Oslo
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36824/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=0714e8a7906f59d3f6c98d128a6d2c8a&Static=true&PlaySessionId=adcfed3bae1579d8c24d3f9a3c816172
 #EXTINF:5402,La otra Missy
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21558/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=bbd1e311a5e467070851c50a157b11a4&Static=true&PlaySessionId=27d859376d67468421bbae3c864d4bf9
@@ -1825,6 +1909,9 @@ http://192.168.28.2:8096/videos/21362/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:8269,Pacto de fuga
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21363/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=19fb8781ed51f24495e589650d207155&Static=true&PlaySessionId=6baf43ed3144bbaf20aa247ddaa5f8ea
+#EXTINF:5819,El padre
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36830/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=7e22714b00c57d1f25de28faf69f3f60&Static=true&PlaySessionId=a0a55b9c7916ff5ae5c117fa97752217
 #EXTINF:7500,Pájaros de verano
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21364/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=46a12083347d85fe2bf3239a9dea972a&Static=true&PlaySessionId=042cb81ae1c4b58cb30896cd81a5e573
@@ -1846,6 +1933,9 @@ http://192.168.28.2:8096/videos/21601/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:6378,Patients of a Saint
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21366/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=8a9712ff0a9b1eb19b742cc6fd263abd&Static=true&PlaySessionId=ae74404a6e3d452f0e690499970848ab
+#EXTINF:8258,Patines de Plata
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37451/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=1afb09110108b5487ec5353a4f8b4c0d&Static=true&PlaySessionId=cb338a621798d3f6b88b21bd5b2e2111
 #EXTINF:6084,Patrulla Trueno
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/33435/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=8bc3148f86e656c10d531c3f30f1a0a2&Static=true&PlaySessionId=0ac51ab0619c05c5a663e46bf1e168c9
@@ -1876,6 +1966,9 @@ http://192.168.28.2:8096/videos/21367/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:6778,Personal Assistant
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21503/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=cdebd49bcd16d148ba71817085381cc7&Static=true&PlaySessionId=461b3e46311499ca4dd8abac676540cf
+#EXTINF:5600,Peter Rabbit 2: A la fuga
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37448/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=93f50a48d8a5a866b158e3e19d414a9e&Static=true&PlaySessionId=e7159368814c5776048884861db90ec3
 #EXTINF:8595,Piratas del Caribe. La maldición de la Perla Negra
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21375/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=91c86982a7c6a34d6fb55cb23c305350&Static=true&PlaySessionId=33b13c11fd2b4aa5a52baff986ef8e21
@@ -1915,6 +2008,9 @@ http://192.168.28.2:8096/videos/21381/stream.mkv?DeviceId=07438af092bb985ec64eec
 #EXTINF:6131,Ponyo en el acantilado
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21383/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=3d2bbbeb598f537407cdc3fc6f8096fa&Static=true&PlaySessionId=b4ff7ada13f738b2b6b6b8480e4eb32b
+#EXTINF:7164,La presencia
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36822/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=98d3c0ff9ccd07dafc83a7d027cb80b5&Static=true&PlaySessionId=0b9cbd5c73f09d10b4c6b20a30470607
 #EXTINF:4944,La princesa Cisne: una boda real
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21549/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=6143827bce740738c43b693841fc50b2&Static=true&PlaySessionId=fba30c997b10766bcf0ed860a4148b61
@@ -2040,6 +2136,9 @@ http://192.168.28.2:8096/videos/21539/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5651,River Runs Red
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21402/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=6624f16a80530198ebb2252653d5b838&Static=true&PlaySessionId=3c353b83f0b66142de052ddb006f888c
+#EXTINF:5544,Roberto Baggio, la Divina Coleta
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36825/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=14db9c7fed83ccb28677a679aa3294d0&Static=true&PlaySessionId=0bfa341c3cdf3356fc20500894543205
 #EXTINF:6968,Robin Hood
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21403/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=e16bf8205163ffa426bec3ab4489a5c3&Static=true&PlaySessionId=85960a614117449eabac2fd38baee374
@@ -2064,6 +2163,9 @@ http://192.168.28.2:8096/videos/21408/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:6185,Rogue Warfare
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/30867/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=29c9a5666176338bbc501f370388fcb5&Static=true&PlaySessionId=dc574ab5b6ecdaa26e220bfa9fe6d2db
+#EXTINF:5963,Ruega por nosotros
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36826/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ee074f476ebb6c3d352c89d0894419f2&Static=true&PlaySessionId=b590aae1edf085f79ff02a193f09181d
 #EXTINF:5529,Running with the Devil
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21409/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=618853cfcfc9772882995cb859676c02&Static=true&PlaySessionId=7944ca70b2000025db45a15f65a6d723
@@ -2091,9 +2193,15 @@ http://192.168.28.2:8096/videos/32343/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5370,El secuestro de Stella
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21269/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=62ece5f4459047e456dfc8dcaf83258a&Static=true&PlaySessionId=da407aebaa2047e9dbf2e9d7e1d54de9
+#EXTINF:7138,Seguridad
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37450/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=447b387cecb31ecacbb6dd92b1211b4b&Static=true&PlaySessionId=d2e9131d51c84d2b128b8a020788ce74
 #EXTINF:5875,Selah Y Las Espadas
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21416/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ffcf5af857706070fae01d330d081fa5&Static=true&PlaySessionId=8f6a76b9a7978ac23c09e92b382c587b
+#EXTINF:6637,Ser padre
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37439/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=13e6d7140e7f4ba246d71ebbf06bdbe6&Static=true&PlaySessionId=24e2a1bf5f85f5d1ea65c34ea3a780b0
 #EXTINF:6360,Serenity
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21417/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d59ccc21ab59082af456b811b89a617f&Static=true&PlaySessionId=481a017568707a2901cce4ca6feac427
@@ -2166,6 +2274,9 @@ http://192.168.28.2:8096/videos/30188/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:7187,The Souvenir
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21547/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=87c4c899d84fb55bef84a98451e29882&Static=true&PlaySessionId=fe20c7ed0ccc971d1de7ba404cf39291
+#EXTINF:4172,Soy Rada: Serendipia
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36827/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=acbb9426f976ae24c93fd12c3fa198a3&Static=true&PlaySessionId=2a2270d6d13f2239e8b4104689052c44
 #EXTINF:7221,Soy tu mujer
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/30054/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=aba8f7fdf8a13aa52f52cccaa7297f70&Static=true&PlaySessionId=77ec71ad8d601ac62ddcddbf909977a1
@@ -2178,6 +2289,9 @@ http://192.168.28.2:8096/videos/21432/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:7764,Spider-Man: Lejos de casa
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21433/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=34ac2d6539fb3de2a9a2e80cea092cf4&Static=true&PlaySessionId=839ca776d7a68f9b63320118d0db15db
+#EXTINF:5585,Spiral: Saw
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36828/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=af9c9f73667be83760ecfad76148b204&Static=true&PlaySessionId=c5d801425b273edae6a1f6493c6b96fe
 #EXTINF:6827,Sputnik
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/31363/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ef55c572240485158a024b7d9df9f725&Static=true&PlaySessionId=3f09baa360162ff70d7aa27942b860ad
@@ -2228,6 +2342,9 @@ http://192.168.28.2:8096/videos/21449/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5182,Superman: Man of Tomorrow
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21448/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=f73e49f33835a90b0df2b82bd8af66ba&Static=true&PlaySessionId=a7c89581fb0eb34be07175e1cc2838ef
+#EXTINF:5707,Supernova
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37455/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=aed37b072d1e9d65fe91a0cb46afcfa6&Static=true&PlaySessionId=81c0c6577e3886f369268cebb3dc9a02
 #EXTINF:9130,Suspiria
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21451/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=db0a9454f4303cf90df78c1907f170b0&Static=true&PlaySessionId=d96208adc6da8db50d76d348645aa995
@@ -2255,6 +2372,9 @@ http://192.168.28.2:8096/videos/34682/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:9009,Tenet
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/29716/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=c84400159d3a6f0b54b043a4e9901865&Static=true&PlaySessionId=b525c7789a4e7b6c0eed769de0356f10
+#EXTINF:5644,Tenía buena pinta
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37436/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=59050d992880362bfa3ab086d93ffc25&Static=true&PlaySessionId=250ba7d203413be7db2d307568656584
 #EXTINF:7685,Terminator: destino oscuro
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21456/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=cd35cea4282cbfd4d4bb043045668435&Static=true&PlaySessionId=957ff69faa9c2fe3c99ff7a4415083d1
@@ -2387,6 +2507,9 @@ http://192.168.28.2:8096/videos/21197/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5965,Un ladrón honesto
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/30406/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=436b9cf3882c19be48184c60b6b89fd2&Static=true&PlaySessionId=1e47d27a2cf284cd82dbca1ca7f22d8e
+#EXTINF:5821,Un lugar tranquilo 2
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37435/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=2fa3ac598287351744c44f2ae376d202&Static=true&PlaySessionId=fd430ec667f10e0fecb360865ffe8416
 #EXTINF:5213,Un mal viaje
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/32654/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=93c3150a42484e576167cdda3a990743&Static=true&PlaySessionId=6e73c53b5006f86a84b671d2f41b7773
@@ -2402,6 +2525,9 @@ http://192.168.28.2:8096/videos/29985/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5128,Un príncipe de Navidad: Bebé real
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/20995/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=6bd312dc98c74e912e0a8271b72be4c1&Static=true&PlaySessionId=736d8a647e547c29975c17879bde23f1
+#EXTINF:6008,Una Cenicienta moderna: Salto a la fama
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37445/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=a71dd540f269e4f62e657e32f41deb36&Static=true&PlaySessionId=505655b770b85affe37dbe09e4862b58
 #EXTINF:7214,Una cuestión de género
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21353/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ce907dcd26f05dffa70e4b7d3e3b05e6&Static=true&PlaySessionId=c7232cb15b33a3716154e5d096af1df8
@@ -2417,6 +2543,9 @@ http://192.168.28.2:8096/videos/33429/stream.mkv?DeviceId=07438af092bb985ec64eec
 #EXTINF:6229,Una noche de locos
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21545/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=a1873a2ebcf87b0ceb313f7bcf12b87c&Static=true&PlaySessionId=dc35909f53e990c029b252b7d215c333
+#EXTINF:5648,Una noche de venganza
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37456/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=aac148a0d389f37e1b5ecb220db23c6c&Static=true&PlaySessionId=d7d336668878d93861d2d12702243bac
 #EXTINF:7011,Una oración antes del amanecer
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21000/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=1d87b0796229b68919a4b92d5377f1f7&Static=true&PlaySessionId=0d1d5b3f015b948b365560e97a383d71
@@ -2516,12 +2645,18 @@ http://192.168.28.2:8096/videos/21021/stream.mp4?DeviceId=07438af092bb985ec64eec
 #EXTINF:5916,La viuda
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21204/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=9a6f41144bfd6382f5a620c052354a40&Static=true&PlaySessionId=3f6fd653f5bfa367cdf67e79d8992914
+#EXTINF:8026,Viuda negra
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/37437/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=d914f6b7d5c13112524e1d7ed45362b0&Static=true&PlaySessionId=edaf22af658ccdc834e6fb719753ac92
 #EXTINF:5918,Vivarium
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21588/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=2412061b527fda7be582ce0d85652f3c&Static=true&PlaySessionId=80669ac4d63df2ace79b4a83e54ed4c8
 #EXTINF:6878,Vox Lux: El precio de la fama
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21589/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=ff6c9aa459f77d5311501a255d047edd&Static=true&PlaySessionId=e9e592f8544e5fcfcf45d6e4cab01ba3
+#EXTINF:6478,Voyagers
+#EXTVLCOPT:network-caching=1000
+http://192.168.28.2:8096/videos/36831/stream.mp4?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=e113fa3cf43cc94dd7e90b365137aadb&Static=true&PlaySessionId=902d3365c2ec2af1acbc6f5edf64e84c
 #EXTINF:5892,WALL·E: Batallón de limpieza
 #EXTVLCOPT:network-caching=1000
 http://192.168.28.2:8096/videos/21590/stream.mkv?DeviceId=07438af092bb985ec64eec1383aa9484&MediaSourceId=9f94f6ba22a8b4f300b2edcb2fcf8b61&Static=true&PlaySessionId=5d99037ac59c58c973ce5c66eae91b8d
